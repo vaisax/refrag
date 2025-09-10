@@ -1,0 +1,23 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+tokenizers>=0.13.0
+numpy>=1.21.0
+
+# Optional dependencies for enhanced functionality
+torch-audio>=2.0.0
+accelerate>=0.20.0
+datasets>=2.12.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+pre-commit>=3.0.0
+
+# Utilities
+tqdm>=4.64.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+wandb>=0.15.0
