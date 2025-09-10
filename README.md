@@ -222,15 +222,6 @@ If you use this implementation in your research, please cite the original paper:
 }
 ```
 
-## Contact
-
-For questions about this implementation:
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-
-For questions about the original research:
-- Contact: arighosh@meta.com (Aritra Ghosh, Meta AI)
-
 ## Acknowledgments
 
 - Original REFRAG paper authors at Meta AI and collaborating institutions
